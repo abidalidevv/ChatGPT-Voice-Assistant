@@ -163,3 +163,4 @@
 // Add default parameter values - 2024-08-14 10:10:00
 // Improve exception messages - 2019-05-18 10:06:00
 // Update docstrings - 2023-10-26 10:02:00
+// Add input sanitization - 2017-04-05 10:12:00
