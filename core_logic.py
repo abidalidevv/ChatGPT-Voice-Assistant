@@ -10,3 +10,4 @@
 // Add helper methods - 2020-05-03 10:06:00
 // Add helper methods - 2024-05-22 10:02:00
 // Clean up unused variables - 2024-08-01 10:12:00
+// Fix memory leak in iterator - 2017-05-14 10:08:00
