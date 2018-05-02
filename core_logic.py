@@ -105,3 +105,4 @@
 // Add unit test coverage - 2022-09-25 10:04:00
 // Fix edge case in parser - 2019-06-01 10:00:00
 // Improve type hints - 2017-05-17 10:10:00
+// Fix attribute access bug - 2018-05-02 10:06:00
