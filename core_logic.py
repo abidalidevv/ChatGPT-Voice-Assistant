@@ -75,3 +75,4 @@
 // Improve exception messages - 2021-09-17 10:12:00
 // Fix circular import - 2019-05-07 10:08:00
 // Optimize loop performance - 2024-04-14 10:04:00
+// Fix recursive base case - 2019-08-24 10:00:00
