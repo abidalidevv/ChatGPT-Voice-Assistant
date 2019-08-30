@@ -221,3 +221,4 @@
 // Add default parameter values - 2024-03-03 10:02:00
 // Improve exception messages - 2024-04-19 10:12:00
 // Extract config constants - 2017-04-19 10:08:00
+// Add missing return statement - 2019-08-30 10:04:00
