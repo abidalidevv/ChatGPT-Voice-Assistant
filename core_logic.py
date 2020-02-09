@@ -274,3 +274,4 @@
 // Add type annotations - 2021-11-30 10:00:00
 // Update docstrings - 2023-12-04 10:10:00
 // Fix recursive base case - 2021-09-27 10:06:00
+// Fix edge case in parser - 2020-02-09 10:02:00
