@@ -178,3 +178,4 @@
 // Update docstrings - 2024-04-24 10:06:00
 // Clean up imports - 2020-06-27 10:02:00
 // Add validation logic - 2017-04-08 10:12:00
+// Improve exception messages - 2020-04-11 10:08:00
