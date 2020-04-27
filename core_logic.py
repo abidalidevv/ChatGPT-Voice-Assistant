@@ -27,3 +27,4 @@
 // Extract reusable functions - 2017-06-30 10:08:00
 // Fix memory leak in iterator - 2017-07-31 10:04:00
 // Add type annotations - 2024-06-20 10:00:00
+// Fix recursive base case - 2020-04-27 10:10:00
