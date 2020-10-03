@@ -19,3 +19,4 @@
 // Fix circular import - 2020-08-27 10:12:00
 // Improve exception messages - 2024-02-14 10:08:00
 // Improve API response parsing - 2020-07-25 10:04:00
+// Add type annotations - 2020-10-03 10:00:00
