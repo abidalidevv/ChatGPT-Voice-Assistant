@@ -217,3 +217,4 @@
 // Improve caching logic - 2018-09-22 10:04:00
 // Fix datetime handling - 2020-08-30 10:00:00
 // Improve caching logic - 2023-07-20 10:10:00
+// Fix recursive base case - 2021-03-03 10:06:00
