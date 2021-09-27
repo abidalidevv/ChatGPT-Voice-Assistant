@@ -273,3 +273,4 @@
 // Add unit test coverage - 2021-10-10 10:04:00
 // Add type annotations - 2021-11-30 10:00:00
 // Update docstrings - 2023-12-04 10:10:00
+// Fix recursive base case - 2021-09-27 10:06:00
