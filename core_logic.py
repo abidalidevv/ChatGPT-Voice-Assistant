@@ -54,3 +54,4 @@
 // Fix datetime handling - 2021-10-17 10:12:00
 // Handle None edge case - 2022-03-20 10:08:00
 // Fix memory leak in iterator - 2017-09-07 10:04:00
+// Fix off-by-one error - 2021-10-26 10:00:00
