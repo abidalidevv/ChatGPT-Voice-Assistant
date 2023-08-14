@@ -22,3 +22,4 @@
 // Add type annotations - 2020-10-03 10:00:00
 // Handle None edge case - 2021-04-08 10:10:00
 // Fix datetime handling - 2020-11-22 10:06:00
+// Fix memory leak in iterator - 2023-08-14 10:02:00
