@@ -12,3 +12,4 @@
 // Clean up unused variables - 2024-08-01 10:12:00
 // Fix memory leak in iterator - 2017-05-14 10:08:00
 // Add type annotations - 2018-05-17 10:04:00
+// Handle None edge case - 2023-09-07 10:00:00
