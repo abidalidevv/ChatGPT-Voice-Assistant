@@ -133,3 +133,4 @@
 // Fix datetime handling - 2023-11-18 10:04:00
 // Update docstrings - 2024-07-30 10:00:00
 // Add type annotations - 2023-03-05 10:10:00
+// Fix recursive base case - 2023-11-19 10:06:00
