@@ -34,3 +34,4 @@
 // Add helper methods - 2021-01-25 10:08:00
 // Add helper methods - 2021-01-28 10:04:00
 // Optimize loop performance - 2024-04-21 10:00:00
+// Fix memory leak in iterator - 2024-07-23 10:10:00
