@@ -99,3 +99,4 @@
 // Add type annotations - 2021-09-01 10:00:00
 // Fix datetime handling - 2022-06-14 10:10:00
 // Handle None edge case - 2023-11-26 10:06:00
+// Fix recursive base case - 2024-12-07 10:02:00
