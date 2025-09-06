@@ -441,3 +441,6 @@ def clamp(value, lo, hi):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def get_env(key, default=''):
+    import os; return os.environ.get(key, default)
